@@ -10,4 +10,5 @@ Daftar biodata siswa Dicoding Academy
 - Angkatan 2023
 - Angkatan 2024
 - Angkatan 2025
+- Angkatan 2026
 
